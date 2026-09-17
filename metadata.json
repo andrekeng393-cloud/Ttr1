@@ -1,0 +1,6 @@
+{
+  "name": "Simulateur de Modèles Réseaux",
+  "description": "Laboratoire interactif pour tester, simuler et analyser les modèles de réseaux (OSI, TCP/IP) et topologies (Étoile, Maillé, Bus, Anneau, Arbre).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
